@@ -1,0 +1,22 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# loam-iiif
+manifests/
+
+.env
+data/
+checkpoints/
+*.jsonl
+.DS_Store
+# bespoke name of the model
+SmolVLM*/
+llm_prompt.txt
