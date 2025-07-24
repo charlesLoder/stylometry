@@ -2,6 +2,9 @@
 
 This repo contains a comparison of different strategies for affecting an LLM's output style, with a special attention given towards application in library science.
 
+> [!IMPORTANT]
+> Notebooks are best viewed in VSCode, as Github has some errors with rendering them.
+
 ## set up
 
 Clone this repo and using [`uv`](https://docs.astral.sh/uv/) run
